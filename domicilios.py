@@ -5,7 +5,7 @@ import locale
 #moneda COP
 locale.setlocale(locale.LC_ALL, 'es_CO.UTF-8')
 
-# Diccionario domicilios -------------------------------
+# Diccionario domicilios -----------------------------------
 barrios = {
     "17 DE DICIEMBRE": (7500, 8000),
     "20 DE JULIO": (7000, 8000),
